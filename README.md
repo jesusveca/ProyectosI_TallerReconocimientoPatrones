@@ -1,0 +1,1 @@
+# ProyectosI_TallerReconocimientoPatrones
